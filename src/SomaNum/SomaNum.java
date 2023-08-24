@@ -11,9 +11,9 @@ class somaDoisNumeros {
 		
 		//leituras
 		System.out.println("Soma de dois numeros");
-		System.out.print("\nEscolha o primeiro valor: ");
+		System.out.print("\nEscolha o primeiro numero: ");
 		num1 = scan.nextInt();
-		System.out.print("\nEscolha o segundo valor: ");
+		System.out.print("\nEscolha o segundo numero: ");
 		num2 = scan.nextInt();
 		
 		//operação (soma)
